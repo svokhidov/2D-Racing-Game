@@ -1,1 +1,2 @@
-# Parking-Garage-Lot-Automation
+ This car racing game is  python project for Software Project Class at NAU.. The game is reminiscent of most 2d racing games, there is a starting point and an ending point, in this case a trophy. Contact with the trophy in the allotted time will satisfy the win condition and allow you to proceed, collision with any of the wall barriers or an expiration of the timer will fail you. There are 3 levels in total, of increasing difficulty. 
+ GOOD LUCK ! ! !
